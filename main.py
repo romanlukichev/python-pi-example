@@ -2,7 +2,7 @@
 
 
 def main(msg):
-
+      // ANOTHER COMMENT
      // adding the second comment to this file
 
     // Print a message
